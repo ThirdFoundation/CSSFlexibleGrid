@@ -1,18 +1,9 @@
-section {
-	margin-top: 10px;
-	margin-bottom: 10px;
-/*	margin-left: auto;
-	margin-right: auto;
-	width: 960px; */
-}
-
-.breaker {
-	margin-top: 50px;
-	margin-bottom: 10px;
+p {
+	margin: 40px 0px 5px 0px;
 	text-align: center;
+	font-family: sans-serif;
 	color: red;
 }
-
 .container_960 {
 	margin-left: auto;
 	margin-right: auto;
@@ -25,10 +16,9 @@ section {
 	height: 20px;
 	margin-top: 5px;
 	margin-bottom: 5px;
+	font-family: sans-serif;
+	font-size: 10pt;
 }
-
-
-
 
 
 .frac_1,
@@ -312,114 +302,3 @@ section {
 .container_960 .pushfrac_10x9 {
 	margin-left: 91.04%;
 }
-
-
-/*
-
-
-.container_960 .pushfrac_6 {
-	margin-left: %;
-}
-.container_960 .pushfrac_6x5 {
-	margin-left: %;
-}
-.container_960 .pushfrac_7 {
-	margin-left: %;
-}
-.container_960 .pushfrac_7x2 {
-	margin-left: %;
-}
-.container_960 .pushfrac_7x3 {
-	margin-left: %;
-}
-.container_960 .pushfrac_7x4 {
-	margin-left: %;
-}
-.container_960 .pushfrac_7x5 {
-	margin-left: %;
-}
-.container_960 .pushfrac_7x6 {
-	margin-left: %;
-}
-.container_960 .pushfrac_8 {
-	margin-left: %;
-}
-.container_960 .pushfrac_8x3 {
-	margin-left: %;
-}
-.container_960 .pushfrac_8x5 {
-	margin-left: %;
-}
-.container_960 .pushfrac_8x7 {
-	margin-left: %;
-}
-.container_960 .pushfrac_9 {
-	margin-left: %;
-}
-.container_960 .pushfrac_9x2 {
-	margin-left: %;
-}
-.container_960 .pushfrac_9x4 {
-	margin-left: %;
-}
-.container_960 .pushfrac_9x5 {
-	margin-left: %;
-}
-.container_960 .pushfrac_9x7 {
-	margin-left: %;
-}
-.container_960 .pushfrac_9x8 {
-	margin-left: %;
-}
-.container_960 .pushfrac_11 {
-	margin-left: %;
-}
-.container_960 .pushfrac_11x2 {
-	margin-left: %;
-}
-.container_960 .pushfrac_11x3 {
-	margin-left: %;
-}
-.container_960 .pushfrac_11x4 {
-	margin-left: %;
-}
-.container_960 .pushfrac_11x5 {
-	margin-left: %;
-}
-.container_960 .pushfrac_11x6 {
-	margin-left: %;
-}
-.container_960 .pushfrac_11x7 {
-	margin-left: %;
-}
-.container_960 .pushfrac_11x8 {
-	margin-left: %;
-}
-.container_960 .pushfrac_11x9 {
-	margin-left: %;
-}
-.container_960 .pushfrac_11x10 {
-	margin-left: %;
-}
-.container_960 .pushfrac_12 {
-	margin-left: %;
-}
-.container_960 .pushfrac_12x5 {
-	margin-left: %;
-}
-.container_960 .pushfrac_12x7 {
-	margin-left: %;
-}
-.container_960 .pushfrac_12x11 {
-	margin-left: %;
-}
-
-
-
-
-
-*/
-
-
-
-
